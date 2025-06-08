@@ -33,7 +33,7 @@ export default function WorldMapSection() {
       <WorldMap
         dots={[
           {
-            start: { lat: 26.6667, lng: 84.36, label: "Dhangadhi" }, // Dhangadhi, Nepal
+            start: { lat: 28.1315, lng: 83.09, label: "Dhangadhi" }, // Gulmi, Nepal
             end: { lat: 47.1023, lng: -71.2901, label: "Hanover" }, // Hanover, NH, USA
           },
         ]}
